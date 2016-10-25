@@ -26,7 +26,7 @@
 
 Make sure it's **something you can accomplish in the limited time we have**, and make sure it's **something that will be visually impressive**.
 
-**You may work on this project individually or in pairs.** See the [project planning deliverables](#project-planning-deliverables) section below for extra planning requirements for pairs.
+**You will be working on this project individually!**
 
 ---
 
@@ -87,12 +87,6 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 * **Milestones:** Divide your work into parts - the most essential features for your MVP, features that are important but not essential, and features that can be saved for a later iteration. Create 3-5 major milestones with dates outlining when you expect essential features will be done.
 * **Feasibility Study:** If you're using an external API or scraping a website, make sure you can get that data. If you're using a new language, framework, or tool, go through its getting started tutorial. We *will* ask to see your results.
 
-**In addition to the above requirements, students working as pairs must:**
-
-* Detail each person's responsibilities and features they will own.
-* Describe your plan for workflow and communication.
-* Demonstrate that each person will be challenged to contribute excellent work.
-
 ### Completed Project Deliverables
 
 * A **working full-stack application**, hosted somewhere on the internet.
@@ -114,9 +108,9 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### When is the project due?
 
-* **{{ENTER PROJECT PLANNING DELIVERABLES HERE}}** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Wednesday, October 26th** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
-* **{{ENTER PROJECT PRESENTATION AND DUE DATE HERE}}** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Thursday, November 3rd** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 ---
 
@@ -133,7 +127,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### What should I cover during my presentation?
 
-Project 3 presentations will start at **{{ENTER TIME HERE}}** on **{{ENTER DUE DATE HERE}}**. Each presentation should be **8 minutes or less** and cover the following:
+Project 3 presentations will start at **1:15 pm** on **Thursday, November 3rd**. Each presentation should be **8 minutes or less** and cover the following:
 
 * What was your motivation to build this project?
 * Demo of your project's core functionality.
@@ -148,23 +142,27 @@ Project 3 presentations will start at **{{ENTER TIME HERE}}** on **{{ENTER DUE D
 
 You'll meet with your assigned instructor / DIR daily to guide you throughout the project. They will also be sending you feedback on the project afterwards.
 
-#### INSTRUCTOR
+#### Brianna
 
 * TBD
 * TBD
 * TBD
 * TBD
+* TBD
+* TBD
 
-
-#### INSTRUCTOR
+#### Cory
 
 * TBD
 * TBD
 * TBD
 * TBD
+* TBD
+* TBD
 
-#### INSTRUCTOR
+#### Matt
 
+* TBD
 * TBD
 * TBD
 * TBD
