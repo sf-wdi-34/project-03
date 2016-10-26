@@ -144,29 +144,28 @@ You'll meet with your assigned instructor / DIR daily to guide you throughout th
 
 #### Brianna
 
-* TBD
-* TBD
-* TBD
-* TBD
-* TBD
-* TBD
+* Andrew V
+* Sam
+* Ashley
+* Scott
+* Sherie
 
 #### Cory
 
-* TBD
-* TBD
-* TBD
-* TBD
-* TBD
-* TBD
+* Misha
+* Nick
+* Sera
+* Alicia
+* Zach
+* Lisa
 
 #### Matt
 
-* TBD
-* TBD
-* TBD
-* TBD
-* TBD
+* Andrew C
+* Wolf
+* Mikey
+* Laura
+* William 
 
 
 ---
