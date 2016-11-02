@@ -149,10 +149,10 @@ You'll meet with your assigned instructor / DIR daily to guide you throughout th
 * Ashley
 * Scott
 * Sherie
+* Misha
 
 #### Cory
 
-* Misha
 * Nick
 * Sera
 * Alicia
