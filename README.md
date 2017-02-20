@@ -36,7 +36,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 * **Discover or invent an idea**, preferably one with some group of users that would jump at the chance to really use your product.
 * **Design a product *you* want to build**, and choose _appropriate technologies_ to build it.
-* **Pitch your idea** to your classmates and instructors, and incorporate their feedback.
+* **Pitch your idea** to your classmates and/or instructors, and incorporate their feedback.
 * **Make productive use of your time**, and balance responsibilities to make a complete, impressive-looking project.
 * **Focus on writing solid, real-world code** that is well-documented and DRY.
 
@@ -81,7 +81,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 **You should review the following with your instructional team BEFORE you start to code.**
 
 * **Scope:** What are you planning to build? What do you reasonably think you can implement in the time period?
-* **User Stories:** Who is your user? What features will your app have? Set up your project and user stories in <a href="https://trello.com" target="_blank">Trello</a>.
+* **User Stories:** Who is your user? What features will your app have? Set up your project and user stories in <a href="https://trello.com" target="_blank">Trello</a> or with GitHub project tracking.
 * **Wireframes:** Sketch out what your core pages will look like and how they will work. Consider making a *paper prototype* to demonstrate and/or test key user interactions.
 * **Data Models:** Draw out the models and any associations for your project in an entity relationship diagram (ERD).
 * **Milestones:** Divide your work into parts - the most essential features for your MVP, features that are important but not essential, and features that can be saved for a later iteration. Create 3-5 major milestones with dates outlining when you expect essential features will be done.
@@ -108,9 +108,9 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### When is the project due?
 
-* **Wednesday, October 26th** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Wednesday, February 21st, by 12:15pm** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
-* **Thursday, November 3rd** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Thursday, March 3rd, 1:15pm** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 ---
 
