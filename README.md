@@ -26,7 +26,7 @@
 
 Make sure it's **something you can accomplish in the limited time we have**, and make sure it's **something that will be visually impressive**.
 
-**You may work on this project individually or in pairs.** See the [project planning deliverables](#project-planning-deliverables) section below for extra planning requirements for pairs.
+**You will be working on this project individually!**
 
 ---
 
@@ -36,7 +36,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 * **Discover or invent an idea**, preferably one with some group of users that would jump at the chance to really use your product.
 * **Design a product *you* want to build**, and choose _appropriate technologies_ to build it.
-* **Pitch your idea** to your classmates and instructors, and incorporate their feedback.
+* **Pitch your idea** to your classmates and/or instructors, and incorporate their feedback.
 * **Make productive use of your time**, and balance responsibilities to make a complete, impressive-looking project.
 * **Focus on writing solid, real-world code** that is well-documented and DRY.
 
@@ -81,17 +81,11 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 **You should review the following with your instructional team BEFORE you start to code.**
 
 * **Scope:** What are you planning to build? What do you reasonably think you can implement in the time period?
-* **User Stories:** Who is your user? What features will your app have? Set up your project and user stories in <a href="https://trello.com" target="_blank">Trello</a>.
+* **User Stories:** Who is your user? What features will your app have? Set up your project and user stories in <a href="https://trello.com" target="_blank">Trello</a> or with GitHub project tracking.
 * **Wireframes:** Sketch out what your core pages will look like and how they will work. Consider making a *paper prototype* to demonstrate and/or test key user interactions.
 * **Data Models:** Draw out the models and any associations for your project in an entity relationship diagram (ERD).
 * **Milestones:** Divide your work into parts - the most essential features for your MVP, features that are important but not essential, and features that can be saved for a later iteration. Create 3-5 major milestones with dates outlining when you expect essential features will be done.
 * **Feasibility Study:** If you're using an external API or scraping a website, make sure you can get that data. If you're using a new language, framework, or tool, go through its getting started tutorial. We *will* ask to see your results.
-
-**In addition to the above requirements, students working as pairs must:**
-
-* Detail each person's responsibilities and features they will own.
-* Describe your plan for workflow and communication.
-* Demonstrate that each person will be challenged to contribute excellent work.
 
 ### Completed Project Deliverables
 
@@ -114,9 +108,9 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### When is the project due?
 
-* **{{ENTER PROJECT PLANNING DELIVERABLES HERE}}** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Wednesday, February 21st, by 12:15pm** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
-* **{{ENTER PROJECT PRESENTATION AND DUE DATE HERE}}** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Thursday, March 3rd, 1:15pm** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 ---
 
@@ -133,43 +127,12 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### What should I cover during my presentation?
 
-Project 3 presentations will start at **{{ENTER TIME HERE}}** on **{{ENTER DUE DATE HERE}}**. Each presentation should be **8 minutes or less** and cover the following:
+Project 3 presentations will start at **1:15 pm** on **Thursday, November 3rd**. Each presentation should be **8 minutes or less** and cover the following:
 
 * What was your motivation to build this project?
 * Demo of your project's core functionality.
 * What is one feature you're particularly proud of? (show code)
 * Shout-outs for your fellow classmates!
-
----
-
-## Instructor Groups
-
-###### Who will be my assigned instructor / DIR for this project?
-
-You'll meet with your assigned instructor / DIR daily to guide you throughout the project. They will also be sending you feedback on the project afterwards.
-
-#### INSTRUCTOR
-
-* TBD
-* TBD
-* TBD
-* TBD
-
-
-#### INSTRUCTOR
-
-* TBD
-* TBD
-* TBD
-* TBD
-
-#### INSTRUCTOR
-
-* TBD
-* TBD
-* TBD
-* TBD
-
 
 ---
 
