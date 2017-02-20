@@ -1,31 +1,23 @@
-## Instructor Groups
+## Developer Groups
 
-###### Who will be my assigned instructor / DIR for this project?
+###### Who will be my assigned instructor for this project?
 
-You'll meet with your assigned instructor / DIR daily to guide you throughout the project. They will also be sending you feedback on the project afterwards.
+You'll meet with your assigned instructor daily to guide you throughout the project. They will also be sending you feedback on the project afterwards.
 
 #### Brianna
 
-* Andrew V
-* Sam
-* Ashley
-* Scott
-* Sherie
-* Misha
+* TBD  
+* TBD  
+* TBD  
+* TBD  
+* TBD  
+* TBD  
 
 #### Cory
 
-* Nick
-* Sera
-* Alicia
-* Zach
-* Lisa
-
-#### Matt
-
-* Andrew C
-* Wolf
-* Mikey
-* Laura
-* William 
-
+* TBD  
+* TBD  
+* TBD  
+* TBD  
+* TBD  
+* TBD  
