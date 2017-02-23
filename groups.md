@@ -2,22 +2,21 @@
 
 ###### Who will be my assigned instructor for this project?
 
-You'll meet with your assigned instructor daily to guide you throughout the project. They will also be sending you feedback on the project afterwards.
+You'll meet with your assigned instructor daily throughout the project for feedback and guidance. 
 
 #### Brianna
 
-* TBD  
-* TBD  
-* TBD  
-* TBD  
-* TBD  
-* TBD  
+* Aaron  
+* Alex  
+* Amber  
+* LD  
+* Mike  
+* RJ  
 
 #### Cory
 
-* TBD  
-* TBD  
-* TBD  
-* TBD  
-* TBD  
-* TBD  
+* Greice  
+* Ricardo  
+* Ryan  
+* Shiv  
+* Zach   
